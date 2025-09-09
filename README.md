@@ -77,14 +77,11 @@ IEEE INDISCON 2025.
 
 ## 🔗 Links
 - **IEEE INDISCON 2025 Publication**: [To be updated]
-- **Conference Presentation**: `docs/Presentation.pptx`
-- **Paper**: `docs/IEEE_INDISCON_2025_Paper.pdf`
-
 ---
 
 ## 🤝 Contributors
 - [Chaitanya Sai Kurapati](mailto:av.en.u4cse22121@av.students.amrita.edu)
-- K. Nagendra
+- [Nagendra Kancharapu](mailto:av.en.u4cse22120@av.students.amrita.edu)
 - Ravishankar Prakash Desai
 
 ---
