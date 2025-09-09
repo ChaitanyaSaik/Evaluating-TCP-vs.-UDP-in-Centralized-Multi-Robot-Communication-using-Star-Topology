@@ -20,21 +20,6 @@ The simulation provides a practical, extensible tool for researchers and enginee
 
 ---
 
-## 📂 Project Structure
-```plaintext
-├── src/
-│   ├── tcp_udp_simulation.m        # MATLAB code implementing TCP/UDP simulation
-│   ├── topology_config.m           # Topology setup with robot and hub configuration
-│   ├── metrics_calculation.m       # Extracts latency, PDR, retransmissions, throughput
-│   └── visualization.m             # Graphical plots for communication flows
-├── docs/
-│   ├── IEEE_INDISCON_2025_Paper.pdf  # Accepted IEEE paper
-│   └── Presentation.pptx             # Conference presentation slides
-└── README.md
-```
-
----
-
 ## 🔍 Simulation Methodology
 - **Robots**: Six autonomous nodes connected via a central hub.
 - **Protocols**:
